@@ -1,1 +1,0 @@
-Build <a href="https://github.com/Destrokhen-main/Simple-Reactive-doc">This code</a>
